@@ -1,16 +1,3 @@
-# masjidapp
+First commit
 
-The App for Masjids
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/101512273/209439818-2f891b5a-abb2-42f4-bda1-8dfcd9c10bd8.png" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/101512273/209439831-398615ee-20e8-4c71-8fc5-a8ac071f00b2.png" width="200" height="400" />
