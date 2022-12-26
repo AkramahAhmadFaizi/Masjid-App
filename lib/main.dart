@@ -6,6 +6,8 @@ void main() => runApp(MasjidApp());
 
 class MasjidApp extends StatelessWidget {
 
+
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

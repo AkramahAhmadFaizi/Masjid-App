@@ -14,11 +14,16 @@ class _Navigation_BarState extends State<Navigation_Bar>
 
   late TabController tabController;
   int current_page=0;
+  var dt=DateTime.now().toUtc();
+
 
   @override
   void initState(){
     super.initState();
     tabController = TabController(length: 2, vsync: this);
+    print(dt.day);
+    print(dt.hour);
+    print(dt.minute);
   }
 
   @override

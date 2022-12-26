@@ -1,0 +1,30 @@
+[33mcommit d04587088c8af50291c18b0954399d7dcae5a7cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: ae7eefa deaf775
+Author: Akramah Faizi <akramahahmadfaizi@gmail.com>
+Date:   Sun Dec 25 21:03:12 2022 +0530
+
+    Merge branch 'main' of https://github.com/AkramahAhmadFaizi/Masjid-App
+
+[33mcommit ae7eefab1926a7b13f909ba2738dac1d7372953b[m
+Author: Akramah Faizi <akramahahmadfaizi@gmail.com>
+Date:   Sun Dec 25 21:02:54 2022 +0530
+
+    api working
+
+[33mcommit deaf77520033cb4c3bd3cf2c5eed7e3f5a791b1a[m
+Author: AkramahAhmadFaizi <101512273+AkramahAhmadFaizi@users.noreply.github.com>
+Date:   Sat Dec 24 19:52:40 2022 +0530
+
+    Update README.md
+
+[33mcommit 5e75d0134dbdde92183791d96a0c4f96aa3c92fa[m
+Author: AkramahAhmadFaizi <101512273+AkramahAhmadFaizi@users.noreply.github.com>
+Date:   Sat Dec 24 19:52:11 2022 +0530
+
+    Update README.md
+
+[33mcommit f94ed87d33cc95f37add9d4369683fa37e9e7f65[m
+Author: Akramah Faizi <akramahahmadfaizi@gmail.com>
+Date:   Sat Dec 24 18:47:33 2022 +0530
+
+    Scafold and Navigation Bar made
