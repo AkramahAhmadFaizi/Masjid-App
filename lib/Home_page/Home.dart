@@ -22,6 +22,24 @@ class _HomeState extends State<Home> {
         backgroundColor: Colors.lightBlueAccent,
         elevation: 3.0,
       ),
+      body: Column(
+        children: [
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
+          children: [
+            ElevatedButton(
+              child: Icon(Icons.map),
+              onPressed: (){},
+            ),
+            ElevatedButton(
+              child: Icon(Icons.search),
+              onPressed: (){},
+            )
+          ],
+        ),
+
+      ],
+    ),
     );
   }
 }

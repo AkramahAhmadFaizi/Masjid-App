@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'Home.dart';
-import 'Prayer_time.dart';
+import 'Home_page/Home.dart';
+import 'Prayertime_page/Prayer_time.dart';
 
 class Navigation_Bar extends StatefulWidget{
 
